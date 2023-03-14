@@ -1,0 +1,20 @@
+.one {
+    background-image: url(86665.png);
+    background-size: contain;
+}
+.box {
+    color: red;
+    border: 5px;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-color: red;
+    border-right-style: solid;
+    border-left-style: solid;
+    margin: 30px 10px;
+}
+.two {
+    background-image: url(86665.png);
+    background-size: 300px 100px;
+    background-repeat: no-repeat;
+    margin: 30px 10px;
+}

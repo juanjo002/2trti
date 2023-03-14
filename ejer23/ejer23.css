@@ -1,0 +1,13 @@
+div {
+    width: 400px;
+    height: 100px;
+    border: 1px solid black;
+    z-index: 1;
+}
+.mov {
+position: fixed;
+top: 40px;
+left: 80px;
+background-color: lightgray;
+z-index: 2;
+}

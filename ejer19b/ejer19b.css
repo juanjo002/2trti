@@ -1,0 +1,33 @@
+.ov {
+    display: inline;
+    float: left;
+    margin: 1em;
+    padding: .3em;
+    border: 2px solid #555;
+    width: 100px;
+    height: 150px;
+    font: 1em Arial, Helvetica, sans-serif;
+    overflow: visible;
+}
+.hid {
+    display: inline;
+    float: left;
+    margin: 1em;
+    padding: .3em;
+    border: 2px solid #555;
+    width: 100px;
+    height: 150px;
+    font: 1em Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+.scr {
+    display: inline;
+    float: left;
+    margin: 1em;
+    padding: .3em;
+    border: 2px solid #555;
+    width: 100px;
+    height: 150px;
+    font: 1em Arial, Helvetica, sans-serif;
+    overflow: scroll;
+}

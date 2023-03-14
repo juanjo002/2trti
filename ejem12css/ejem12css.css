@@ -1,0 +1,15 @@
+.primer {
+    background-color: rgb(255, 99, 71);
+}
+.segunda {
+    background-color: #ff6347;
+}
+.tercera {
+    background-color: hsl(9, 100%, 64%);
+}
+.cuarta {
+    background-color: rgba(255, 99, 71, 0.5);
+}
+.quinta {
+    background-color: hsla(9, 100%, 64%, 0.5);
+}

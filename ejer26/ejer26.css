@@ -1,0 +1,27 @@
+.a {
+    width: 1000px;
+    height: 500px;
+    border: 2px solid black;
+}
+.b {
+    width: 600px;
+    height: 80px;
+    background-color: lightblue;
+    color: black;
+    border: 3px solid black;
+}
+.c {
+    width: 600px;
+    height: 80px;
+    border: 3px solid black;
+    background-image: linear-gradient(blue, red, green);
+    position: relative;
+    bottom: 20px;
+    left: 40px;
+}
+.d {
+    width: 600px;
+    height: 80px;
+    border: 3px solid black;
+    background-image: radial-gradient(ellipse, red 10%, yellow 30%, green);
+}

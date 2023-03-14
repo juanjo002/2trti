@@ -1,0 +1,12 @@
+.prim {
+    background-color: green;
+    color: blue;
+}
+.sec {
+    background-color: blue;
+    color: green;
+}
+.ter {
+    background-color: purple;
+    color: lightgreen;
+}
